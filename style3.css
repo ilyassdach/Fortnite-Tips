@@ -1,0 +1,43 @@
+.titre{
+    font-family:oswald
+    ;text-align: center; 
+}
+h1{
+    font-size: Raleway;
+    text-align: center;
+}
+body{
+    color: whitesmoke;
+    font-family:Verdana;
+    background-image :url(fortnite.jpg);
+    background-repeat: no repeat;
+    background-size: cover;
+    background-attachment: fixed; 
+}
+fieldset{
+    margin-left: 400px;
+    margin-right: 400px;
+    background-color:#2a2c2ea9;
+    border: whitesmoke;
+}
+.text{
+    font-size: 20px;
+}
+.image{
+    height: 350px;
+    width: 600px;
+    margin-left: 50px;
+}
+.reseau{
+    text-align: center;
+}
+.logofn{
+    text-align: center;
+    height: 150;
+    width: 170;
+}
+.vid{
+    margin-left: 200px;
+    width: 650px;
+    height: 400px;
+}
